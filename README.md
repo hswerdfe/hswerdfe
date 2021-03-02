@@ -1,4 +1,4 @@
-### Hi there 👋 would your rather talk about a `Cupola` or `Copula`
+### Hi there 👋 would your rather talk about a `Cupola` or `Copula`?
 
 <!--
 **hswerdfe/hswerdfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
